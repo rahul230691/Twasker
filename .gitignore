@@ -2,3 +2,5 @@ node_modules/
 .tmp/
 *.txt
 .tmp
+assets/includes/
+assets/templates/
