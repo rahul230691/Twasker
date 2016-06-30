@@ -1,2 +1,3 @@
-# appjacker.github.io
-A daily tasks scheduling app
+# tasker
+
+a daily task application based on angular and node
